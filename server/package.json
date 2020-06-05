@@ -1,0 +1,16 @@
+{
+  "name": "wifi-soil-moisture-sensor-server",
+  "version": "0.1.0",
+  "description": "Erstellt ein Webserver der die Frequenz des Gies-o-mat Sensors entgegen nimmt und diesen in einer SQL Datenbank speichert.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Max Eric Behr <max-eric.behr@t-online.de>",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "sqlite3": "^4.2.0"
+  }
+}
