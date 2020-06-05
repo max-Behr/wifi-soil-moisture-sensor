@@ -1,1 +1,1 @@
-# wifi-soil-moisture-sensor
+# WiFi Soil-Moisture Sensor
