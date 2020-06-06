@@ -180,7 +180,7 @@ function getDevices (res, jsonpCallback) {
 
       var resultsToDeliver = [];
       for (var i = 0; i < result.length; i++) {
-        resultsToDeliver.push(result[i].deviceid);
+        resultsToDeliver.push(result[i].deviceId);
       }
 
       if (jsonpCallback) {
